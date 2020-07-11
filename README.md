@@ -1,5 +1,5 @@
 # generador_datos
-Generador de datos a partir de unos archivos planos
+Generador de datos a partir de unos archivos planos , el codigo fue escrito en python
 
 El generador se puede ejecutar de 2 maneras:
   1. Entrar por cmd y ejecutar python generador.py
